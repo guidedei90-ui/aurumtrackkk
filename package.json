@@ -1,0 +1,9 @@
+{
+  "name": "aurum-track",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Painel AURUM TRACK — campanhas do Facebook Ads + vendas reais via webhook",
+  "dependencies": {
+    "@netlify/blobs": "^7.0.1"
+  }
+}
